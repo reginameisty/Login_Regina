@@ -1,0 +1,1 @@
+insert into sample_person(version, id,first_name,last_name,email,phone,date_of_birth,occupation,role,important) values (1, 1,'Admin','1','12345','08989788788','1953-06-01','12345','admin@gmail.com',true)
